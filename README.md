@@ -5,7 +5,7 @@
 
 ![Hospital Inteligente Ada Lovelace](./Portada.png)
 
-Este repositorio documenta el desarrollo del **Hospital Inteligente Ada Lovelace**, un proyecto formativo impulsado dentro del programa de **Ingeniería de Inteligencia Artificial** propuesto por [Jordi Castellón](https://www.linkedin.com/in/gcjordi/), desarrollado en colaboración con [Microsoft](https://www.linkedin.com/company/microsoft), la [Escuela Esplai](https://www.linkedin.com/company/fundaci%C3%B3n-esplai/posts/?feedView=all) y otros actores del ecosistema tecnológico y educativo. Esta iniciativa representa una aproximación profunda al diseño de sistemas sanitarios inteligentes, aplicando las mejores prácticas en ingeniería de software, infraestructura en la nube y automatización clínica y administrativa.
+Este repositorio documenta el desarrollo del **Hospital Inteligente Ada Lovelace**, un proyecto formativo impulsado dentro del programa de **Ingeniería de Inteligencia Artificial** propuesto por [Jordi Garcia Castillón](https://www.linkedin.com/in/gcjordi/), desarrollado en colaboración con [Microsoft](https://www.linkedin.com/company/microsoft), la [Escuela Esplai](https://www.linkedin.com/company/fundaci%C3%B3n-esplai/posts/?feedView=all) y otros actores del ecosistema tecnológico y educativo. Esta iniciativa representa una aproximación profunda al diseño de sistemas sanitarios inteligentes, aplicando las mejores prácticas en ingeniería de software, infraestructura en la nube y automatización clínica y administrativa.
 
 El proyecto ha sido desarrollado en dos grandes fases complementarias:
 
@@ -98,7 +98,7 @@ Este proyecto sigue un enfoque basado en buenas prácticas de arquitectura empre
 
 ## Créditos y Reconocimientos
 
-Este repositorio forma parte del programa de **formación en Ingeniería de Inteligencia Artificial dirigida por Jordi Castellón**.
+Este repositorio forma parte del programa de **formación en Ingeniería de Inteligencia Artificial dirigida por Jordi Garcia Castillón**.
 
 - La **fase administrativa** fue desarrollada como un trabajo individual, reflejando la capacidad para diseñar soluciones complejas de forma autónoma.
 - La **fase asistencial** fue una construcción colectiva que integró conocimientos técnicos, sensibilidad clínica y coordinación en equipo.
