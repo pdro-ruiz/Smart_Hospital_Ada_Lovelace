@@ -1,21 +1,36 @@
-MIT License
+LICENCIA DE USO – Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
-Copyright (c) 2025 Pedro Ruiz
+Este repositorio, incluyendo todos sus contenidos (documentación, diagramas, especificaciones técnicas, ejemplos de integración, flujos operativos, materiales gráficos y cualquier otro componente), es una obra protegida por derechos de autor y se publica bajo la siguiente licencia:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+-------------------------------------------------------------------------------------
+Usted es libre de:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+✅ Compartir — copiar y redistribuir el material en cualquier medio o formato.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Bajo las siguientes condiciones:
+
+1. 🔹 **Atribución** — Debe dar el crédito adecuado al autor original ("Hospital Inteligente Ada Lovelace – Formación en Ingeniería de IA dirigida por Jordi Castellón"), proporcionar un enlace a la licencia e indicar si se han realizado cambios. Puede hacerlo de manera razonable, pero no de forma que sugiera que el licenciante lo respalda a usted o su uso.
+
+2. 🔹 **No Comercial** — No puede utilizar el material con fines comerciales, ni directa ni indirectamente. Esto incluye su integración en productos, servicios o propuestas con ánimo de lucro o reventa.
+
+3. 🔹 **Sin obras derivadas** — No se permite la modificación, transformación o construcción a partir de este material. La distribución de versiones adaptadas o alteradas requiere permiso expreso y por escrito del autor.
+
+-------------------------------------------------------------------------------------
+🛡️ Restricciones Adicionales:
+
+- Queda prohibida la integración total o parcial de los contenidos en sistemas privativos, entornos comerciales o plataformas cerradas sin consentimiento explícito.
+- Todo uso institucional, sanitario o corporativo debe ser comunicado y aprobado previamente.
+- Cualquier intento de eludir las restricciones de esta licencia se considerará una violación de los derechos de autor.
+
+-------------------------------------------------------------------------------------
+📜 Información legal completa de la licencia:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.es
+
+Resumen legible por humanos:
+https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+
+© 2025 Hospital Inteligente Ada Lovelace  
+Coordinación del proyecto: Pedro Ruiz (@pdro-ruiz)  
+Formación en Ingeniería de IA — Docente: Jordi Castellón
+
+-------------------------------------------------------------------------------------
